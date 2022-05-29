@@ -1,4 +1,23 @@
 {
+  "name": "wyrd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chetfarley/wyrd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chetfarley/wyrd/issues"
+  },
+  "homepage": "https://github.com/chetfarley/wyrd#readme",
   "dependencies": {
     "airtable": "^0.11.4"
   }
